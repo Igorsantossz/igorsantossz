@@ -1,5 +1,6 @@
 # Igor Santos
 <b><em> e aí rapeize, como vai a vida </em></b>
+<b> sobre mim <b>
 
 -> estudante de programção front-end 
 
