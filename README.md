@@ -10,7 +10,3 @@
 
 ### meu instagram:
 <a href="https://www.instagram.com/igorsantosz__/"> igorsantosz__ </a>
-
-### meu linkedin:
-
-
