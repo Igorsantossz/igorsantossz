@@ -1,5 +1,5 @@
 # Igor Santos
-<b><em> e aí lek, como vai a vida </em></b>
+<b><em> santos, 16.</em></b>
 ### sobre mim 
 
 -> estudante de programção front-end 
