@@ -13,6 +13,6 @@
 ### meu instagram:
 <a href="https://www.instagram.com/igorsantosz__/"> igorsantosz__ </a>
 
-<b>viva a estética </b>
+<b>viva a estética </b> 🔥
 
 <img height="300em" src="channels4_profile.jpg " alt=" " title=" "> 
