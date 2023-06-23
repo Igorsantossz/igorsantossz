@@ -1,18 +1,9 @@
 # Igor Santos
-<b><em> santos, 16.</em></b>
-### sobre mim 
+<ul>
+          <li> estudante de programação front end </li>
+          <li> cursando o 2° ano do ensino médio técnico </li>
+          <li> Desenvolvimento de Sistemas </li>
+</ul>
 
--> estudante de programção front-end 
-
--> não conheço nada de programção ainda :D
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" />
           
-
-### meu instagram:
-<a href="https://www.instagram.com/igorsantosz__/"> igorsantosz__ </a>
-
-<b>viva a estética </b> 🔥
-
-<img height="300em" src="channels4_profile.jpg " alt=" " title=" "> 
